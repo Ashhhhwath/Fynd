@@ -1,0 +1,178 @@
+{
+  "Dimensions": {
+    "0": {
+      "value": "0 px",
+      "type": "dimension"
+    },
+    "1": {
+      "value": "1 px",
+      "type": "dimension"
+    },
+    "2": {
+      "value": "2 px",
+      "type": "dimension"
+    },
+    "4": {
+      "value": "4 px",
+      "type": "dimension"
+    },
+    "8": {
+      "value": "8 px",
+      "type": "dimension"
+    },
+    "12": {
+      "value": "12 px",
+      "type": "dimension"
+    },
+    "16": {
+      "value": "16 px",
+      "type": "dimension"
+    },
+    "24": {
+      "value": "24 px",
+      "type": "dimension"
+    },
+    "32": {
+      "value": "32 px",
+      "type": "dimension"
+    },
+    "40": {
+      "value": "40 px",
+      "type": "dimension"
+    },
+    "48": {
+      "value": "48 px",
+      "type": "dimension"
+    },
+    "64": {
+      "value": "64 px",
+      "type": "dimension"
+    },
+    "80": {
+      "value": "80 px",
+      "type": "dimension"
+    }
+  },
+  "Spacing": {
+    "0": {
+      "value": "{Dimensions.0}",
+      "type": "dimension"
+    },
+    "1": {
+      "value": "{Dimensions.1}",
+      "type": "dimension"
+    },
+    "2": {
+      "value": "{Dimensions.2}",
+      "type": "dimension"
+    },
+    "4": {
+      "value": "{Dimensions.4}",
+      "type": "dimension"
+    },
+    "8": {
+      "value": "{Dimensions.8}",
+      "type": "dimension"
+    },
+    "12": {
+      "value": "{Dimensions.12}",
+      "type": "dimension"
+    },
+    "16": {
+      "value": "{Dimensions.16}",
+      "type": "dimension"
+    },
+    "24": {
+      "value": "{Dimensions.24}",
+      "type": "dimension"
+    },
+    "32": {
+      "value": "{Dimensions.32}",
+      "type": "dimension"
+    },
+    "40": {
+      "value": "{Dimensions.40}",
+      "type": "dimension"
+    },
+    "48": {
+      "value": "{Dimensions.48}",
+      "type": "dimension"
+    },
+    "64": {
+      "value": "{Dimensions.64}",
+      "type": "dimension"
+    },
+    "80": {
+      "value": "{Dimensions.80}",
+      "type": "dimension"
+    }
+  },
+  "Padding": {
+    "2": {
+      "value": "{Dimensions.2}",
+      "type": "dimension"
+    },
+    "4": {
+      "value": "{Dimensions.4}",
+      "type": "dimension"
+    },
+    "8": {
+      "value": "{Dimensions.8}",
+      "type": "dimension"
+    },
+    "12": {
+      "value": "{Dimensions.12}",
+      "type": "dimension"
+    },
+    "16": {
+      "value": "{Dimensions.16}",
+      "type": "dimension"
+    },
+    "24": {
+      "value": "{Dimensions.24}",
+      "type": "dimension"
+    },
+    "32": {
+      "value": "{Dimensions.32}",
+      "type": "dimension"
+    },
+    "40": {
+      "value": "{Dimensions.40}",
+      "type": "dimension"
+    },
+    "48": {
+      "value": "{Dimensions.48}",
+      "type": "dimension"
+    }
+  },
+  "BorderRadius": {
+    "4": {
+      "value": "{Dimensions.4}",
+      "type": "dimension"
+    },
+    "8": {
+      "value": "{Dimensions.8}",
+      "type": "dimension"
+    },
+    "12": {
+      "value": "{Dimensions.12}",
+      "type": "dimension"
+    },
+    "16": {
+      "value": "{Dimensions.16}",
+      "type": "dimension"
+    },
+    "24": {
+      "value": "{Dimensions.24}",
+      "type": "dimension"
+    },
+    "32": {
+      "value": "{Dimensions.32}",
+      "type": "dimension"
+    },
+    "full": {
+      "value": "250 px",
+      "type": "dimension"
+    }
+  }
+}

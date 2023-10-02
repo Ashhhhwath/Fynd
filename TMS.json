@@ -1,0 +1,188 @@
+{
+  "Primary": {
+    "10": {
+      "value": "{Green.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Green.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Green.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Green.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Green.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Green.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Green.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Green.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Green.Inverse}",
+      "type": "color"
+    }
+  },
+  "Secondary": {
+    "10": {
+      "value": "{Marigold.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Marigold.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Marigold.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Marigold.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Marigold.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Marigold.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Marigold.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Marigold.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Marigold.Inverse}",
+      "type": "color"
+    }
+  },
+  "Sparkle": {
+    "10": {
+      "value": "{Purple.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Purple.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Purple.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Purple.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Purple.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Purple.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Purple.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Purple.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Purple.Inverse}",
+      "type": "color"
+    }
+  },
+  "Neutral": {
+    "Grey-10": {
+      "value": "{Neutrals.Grey-10}",
+      "type": "color"
+    },
+    "Grey-20": {
+      "value": "{Neutrals.Grey-20}",
+      "type": "color"
+    },
+    "Grey-40": {
+      "value": "{Neutrals.Grey-40}",
+      "type": "color"
+    },
+    "Grey-60": {
+      "value": "{Neutrals.Grey-60}",
+      "type": "color"
+    },
+    "Grey-80": {
+      "value": "{Neutrals.Grey-80}",
+      "type": "color"
+    },
+    "Grey-100": {
+      "value": "{Neutrals.Grey-100}",
+      "type": "color"
+    },
+    "White": {
+      "value": "{Neutrals.White}",
+      "type": "color"
+    },
+    "Black": {
+      "value": "{Neutrals.Black}",
+      "type": "color"
+    }
+  },
+  "Feedback": {
+    "Success-80": {
+      "value": "{Feedbacks.Success-80}",
+      "type": "color"
+    },
+    "Success-50": {
+      "value": "{Feedbacks.Success-50}",
+      "type": "color"
+    },
+    "Success-20": {
+      "value": "{Feedbacks.Success-20}",
+      "type": "color"
+    },
+    "Warning-80": {
+      "value": "{Feedbacks.Warning-80}",
+      "type": "color"
+    },
+    "Warning-50": {
+      "value": "{Feedbacks.Warning-50}",
+      "type": "color"
+    },
+    "Warning-20": {
+      "value": "{Feedbacks.Warning-20}",
+      "type": "color"
+    },
+    "Error-80": {
+      "value": "{Feedbacks.Error-80}",
+      "type": "color"
+    },
+    "Error-50": {
+      "value": "{Feedbacks.Error-50}",
+      "type": "color"
+    },
+    "Error-20": {
+      "value": "{Feedbacks.Error-20}",
+      "type": "color"
+    }
+  }
+}
