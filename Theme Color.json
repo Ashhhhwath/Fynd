@@ -1,189 +1,151 @@
 {
   "Background": {
     "Subdued-1": {
-      "value": "{Neutral.Grey-10}",
+      "value": "{Neutrals.Grey-10}",
       "type": "color"
     },
     "Subdued-2": {
-      "value": "{Neutral.Grey-20}",
+      "value": "{Neutrals.Grey-20}",
+      "type": "color"
+    },
+    "Default": {
+      "value": "{Neutrals.Grey-0}",
       "type": "color"
     }
   },
   "Surface": {
     "Default": {
-      "value": "{Neutral.Grey-10}",
+      "value": "{Neutrals.Grey-0}",
       "type": "color"
     },
-    "Subdued": {
-      "value": "#fafbfb",
+    "Subdued-1": {
+      "value": "{Neutrals.Grey-10}",
       "type": "color"
     },
-    "Hovered": {
-      "value": "#f6f6f7",
+    "Subdued-2": {
+      "value": "{Neutrals.Grey-20}",
       "type": "color"
     },
-    "Pressed": {
-      "value": "#f1f2f3",
+    "Default-Hovered": {
+      "value": "{Neutrals.Grey-20}",
       "type": "color"
     },
-    "Depressed": {
-      "value": "#edeeef",
+    "Subdued-1-Hovered": {
+      "value": "{Neutrals.Grey-20}",
       "type": "color"
     },
-    "Disabled": {
-      "value": "#fafbfb",
-      "type": "color"
-    },
-    "SearchField": {
-      "value": "#f1f2f3",
+    "Subdued-2-Hovered": {
+      "value": "{Neutrals.Grey-40}",
       "type": "color"
     }
   },
   "Surface Selected": {
     "Default": {
-      "value": "#f2f7fe",
+      "value": "{Primary.50}",
       "type": "color"
     },
     "Hovered": {
-      "value": "#edf4fe",
+      "value": "{Primary.40}",
       "type": "color"
     },
     "Pressed": {
-      "value": "#e5effd",
+      "value": "{Primary.50}",
       "type": "color"
     }
   },
   "Surface Warning": {
     "Default": {
-      "value": "#ffd79d",
+      "value": "{Feedbacks.Warning-20}",
       "type": "color",
       "description": "Use for badges"
-    },
-    "Subdued": {
-      "value": "#fff5ea",
-      "type": "color",
-      "description": "Used for banners"
-    },
-    "Subdued Hovered": {
-      "value": "#fff2e2",
-      "type": "color"
-    },
-    "Subdued Pressed": {
-      "value": "#ffebd3",
-      "type": "color"
     }
   },
-  "Surface Critical": {
+  "Surface Error": {
     "Default": {
-      "value": "#fed3d1",
-      "type": "color"
-    },
-    "Subdued": {
-      "value": "#fff4f4",
-      "type": "color"
-    },
-    "Subdued Hovered": {
-      "value": "#fff0f0",
-      "type": "color",
-      "description": "Used on action lists"
-    },
-    "Subdued Pressed": {
-      "value": "#ffe9e8",
-      "type": "color"
-    },
-    "Subdued Depressed": {
-      "value": "#febcb9",
+      "value": "{Feedbacks.Error-20}",
       "type": "color"
     }
   },
   "Surface Success": {
     "Default": {
-      "value": "#aee9d1",
+      "value": "{Feedbacks.Success-20}",
       "type": "color",
       "description": "S: 40, L: 89.9"
-    },
-    "Subdued": {
-      "value": "#f1f8f5",
-      "type": "color"
-    },
-    "Subdued Hovered": {
-      "value": "#ecf6f1",
-      "type": "color"
-    },
-    "Subdued Pressed": {
-      "value": "#e2f1ea",
-      "type": "color"
-    }
-  },
-  "Surface Highlight": {
-    "Default": {
-      "value": "#a4e8f2",
-      "type": "color"
-    },
-    "Subdued": {
-      "value": "#ebf9fc",
-      "type": "color"
-    },
-    "Subdued Hovered": {
-      "value": "#e4f7fa",
-      "type": "color"
-    },
-    "Subdued Pressed": {
-      "value": "#d5f3f8",
-      "type": "color"
-    }
-  },
-  "Surface Neutral": {
-    "Default": {
-      "value": "#e4e5e7",
-      "type": "color"
-    },
-    "Subdued": {
-      "value": "#f6f6f7",
-      "type": "color"
-    },
-    "Hovered": {
-      "value": "#dbdddf",
-      "type": "color"
-    },
-    "Pressed": {
-      "value": "#c9ccd0",
-      "type": "color"
-    },
-    "Disabled": {
-      "value": "#f1f2f3",
-      "type": "color"
     }
   },
   "Surface Primary": {
-    "Selected": {
-      "value": "#f1f8f5",
+    "Default": {
+      "value": "{Primary.10}",
       "type": "color"
     },
-    "Selected Hovered": {
-      "value": "#b3d0c3",
+    "Subdued": {
+      "value": "{Primary.20}",
       "type": "color"
     },
-    "Selected Pressed": {
-      "value": "#a2bcb0",
+    "Hovered": {
+      "value": "{Primary.30}",
+      "type": "color"
+    },
+    "Pressed": {
+      "value": "{Primary.50}",
+      "type": "color"
+    }
+  },
+  "Surface Secondary": {
+    "Default": {
+      "value": "{Secondary.10}",
+      "type": "color"
+    },
+    "Subdued": {
+      "value": "{Secondary.20}",
+      "type": "color"
+    },
+    "Hovered": {
+      "value": "{Secondary.30}",
+      "type": "color"
+    },
+    "Pressed": {
+      "value": "{Secondary.50}",
+      "type": "color"
+    }
+  },
+  "Surface Sparkle": {
+    "Default": {
+      "value": "{Sparkle.10}",
+      "type": "color"
+    },
+    "Subdued": {
+      "value": "{Sparkle.20}",
+      "type": "color"
+    },
+    "Hovered": {
+      "value": "{Sparkle.30}",
+      "type": "color"
+    },
+    "Pressed": {
+      "value": "{Sparkle.50}",
       "type": "color"
     }
   },
   "Text": {
     "Default": {
-      "value": "#202223",
+      "value": "{Neutrals.Grey-100}",
       "type": "color"
     },
-    "Subdued": {
-      "value": "#6d7175",
+    "Subdued-1": {
+      "value": "{Neutrals.Grey-80}",
       "type": "color"
     },
-    "Disabled": {
-      "value": "#8c9196",
+    "Subdued-2": {
+      "value": "{Neutrals.Grey-60}",
       "type": "color"
     },
-    "Critical": {
-      "value": "#d72c0d",
+    "Error-Default": {
+      "value": "{Feedbacks.Error-50}",
+      "type": "color"
+    },
+    "Error-Subdued": {
+      "value": "{Feedbacks.Error-80}",
       "type": "color"
     },
     "Warning": {
@@ -200,30 +162,34 @@
     }
   },
   "Text On": {
-    "Interactive": {
-      "value": "#ffffff",
-      "type": "color"
-    },
     "Primary": {
-      "value": "#ffffff",
+      "value": "{Primary.Inverse}",
       "type": "color"
     },
-    "Critical": {
-      "value": "#ffffff",
+    "Secondary": {
+      "value": "{Secondary.Inverse}",
+      "type": "color"
+    },
+    "Sparkle": {
+      "value": "{Sparkle.Inverse}",
       "type": "color"
     }
   },
   "Text Primary": {
     "Default": {
-      "value": "#007b5c",
+      "value": "{Primary.50}",
       "type": "color"
     },
-    "hover": {
-      "value": "#006c50",
+    "Subdued-1": {
+      "value": "{Primary.60}",
       "type": "color"
     },
-    "Pressed": {
-      "value": "#005c44",
+    "Default-Hovered": {
+      "value": "{Primary.40}",
+      "type": "color"
+    },
+    "Subdued-1-Hovered": {
+      "value": "{Primary.50}",
       "type": "color"
     }
   },
