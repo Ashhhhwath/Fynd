@@ -1,7 +1,23 @@
 {
   "tokenSetOrder": [
-    "Core_Palette/Light",
-    "Core_Palette/Dark",
-    "Core_Palette/Bold"
+    "Global/Palette/Light",
+    "Global/Palette/Dark",
+    "Global/Palette/Bold (Not updated)",
+    "Global/Neutrals/Light",
+    "Global/Neutrals/Dark",
+    "Global/Feedback/Light",
+    "Global/Feedback/Dark",
+    "Global/Dimensions/Values",
+    "FP Base",
+    "Store OS",
+    "WMS",
+    "TMS",
+    "FP - Proxy",
+    "Catalog Cloud",
+    "Copilot",
+    "Erase.BG",
+    "Upscale.media",
+    "Watermarkremover.io",
+    "Shrink.media"
   ]
 }
