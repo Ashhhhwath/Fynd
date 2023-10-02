@@ -1548,5 +1548,28 @@
       "Feedback.Error-50": "a62041871988fcfe45ddce62bf9683c63ab04d6f",
       "Feedback.Error-20": "72646cf89fdeb762b9d34950098ddfa5f023df69"
     }
+  },
+  {
+    "id": "c1b605e1219c064ee38d3a5522e72ba0fa20dd5e",
+    "name": "FP Base",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global/Palette/Light": "source",
+      "Global/Palette/Dark": "source",
+      "Global/Neutrals/Light": "source",
+      "Global/Neutrals/Dark": "source",
+      "Global/Feedback/Light": "source",
+      "Global/Feedback/Dark": "source",
+      "FP Base": "source",
+      "Theme Color": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:7:4614",
+    "$figmaModeId": "7:74",
+    "$figmaVariableReferences": {
+      "Primary.Interactive.Default": "b1afc1057027f54fed7c877a2cad08ebeaab1d7c",
+      "Background.Subdued-2": "2e1541b11d7a89ed4b6f46d9cb218c6d51935fe6",
+      "Background.Subdued-1": "0a41a5a3365e86b2db88759679ad3f0f1b845db5"
+    },
+    "group": "Theme"
   }
 ]

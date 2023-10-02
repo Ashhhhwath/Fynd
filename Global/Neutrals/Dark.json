@@ -4,6 +4,10 @@
       "value": "#ffffff",
       "type": "color"
     },
+    "Grey-0": {
+      "value": "{Neutrals.Black}",
+      "type": "color"
+    },
     "Grey-10": {
       "value": "#1F1F1F",
       "type": "color"
