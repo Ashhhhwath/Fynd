@@ -1,0 +1,116 @@
+{
+  "Primary": {
+    "10": {
+      "value": "{Mint.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Mint.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Mint.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Mint.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Mint.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Mint.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Mint.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Mint.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Mint.Inverse}",
+      "type": "color"
+    }
+  },
+  "Secondary": {
+    "10": {
+      "value": "{Purple.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Purple.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Purple.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Purple.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Purple.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Purple.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Purple.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Purple.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Purple.Inverse}",
+      "type": "color"
+    }
+  },
+  "Sparkle": {
+    "10": {
+      "value": "{Red.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Red.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Red.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Red.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Red.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Red.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Red.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Red.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Red.Inverse}",
+      "type": "color"
+    }
+  }
+}

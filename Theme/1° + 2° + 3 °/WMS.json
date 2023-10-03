@@ -1,0 +1,116 @@
+{
+  "Primary": {
+    "10": {
+      "value": "{Sky.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Sky.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Sky.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Sky.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Sky.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Sky.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Sky.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Sky.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Sky.Inverse}",
+      "type": "color"
+    }
+  },
+  "Secondary": {
+    "10": {
+      "value": "{Purple.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Purple.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Purple.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Purple.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Purple.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Purple.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Purple.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Purple.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Purple.Inverse}",
+      "type": "color"
+    }
+  },
+  "Sparkle": {
+    "10": {
+      "value": "{Violet.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Violet.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Violet.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Violet.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Violet.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Violet.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Violet.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Violet.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Violet.Inverse}",
+      "type": "color"
+    }
+  }
+}

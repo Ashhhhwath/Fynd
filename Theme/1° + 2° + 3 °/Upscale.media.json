@@ -1,0 +1,116 @@
+{
+  "Primary": {
+    "10": {
+      "value": "{Green.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Green.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Green.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Green.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Green.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Green.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Green.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Green.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Green.Inverse}",
+      "type": "color"
+    }
+  },
+  "Secondary": {
+    "10": {
+      "value": "{Sky.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Sky.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Sky.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Sky.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Sky.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Sky.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Sky.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Sky.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Sky.Inverse}",
+      "type": "color"
+    }
+  },
+  "Sparkle": {
+    "10": {
+      "value": "{Orange.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Orange.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Orange.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Orange.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Orange.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Orange.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Orange.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Orange.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Orange.Inverse}",
+      "type": "color"
+    }
+  }
+}

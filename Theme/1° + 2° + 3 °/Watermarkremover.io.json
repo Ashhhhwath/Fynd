@@ -1,0 +1,116 @@
+{
+  "Primary": {
+    "10": {
+      "value": "{Orange.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Orange.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Orange.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Orange.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Orange.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Orange.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Orange.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Orange.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Orange.Inverse}",
+      "type": "color"
+    }
+  },
+  "Secondary": {
+    "10": {
+      "value": "{Marigold.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Marigold.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Marigold.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Marigold.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Marigold.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Marigold.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Marigold.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Marigold.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Marigold.Inverse}",
+      "type": "color"
+    }
+  },
+  "Sparkle": {
+    "10": {
+      "value": "{Midnight-Sky.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Midnight-Sky.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Midnight-Sky.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Midnight-Sky.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Midnight-Sky.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Midnight-Sky.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Midnight-Sky.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Midnight-Sky.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Midnight-Sky.Inverse}",
+      "type": "color"
+    }
+  }
+}

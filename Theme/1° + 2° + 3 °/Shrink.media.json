@@ -1,0 +1,116 @@
+{
+  "Primary": {
+    "10": {
+      "value": "{Violet.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Violet.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Violet.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Violet.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Violet.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Violet.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Violet.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Violet.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Violet.Inverse}",
+      "type": "color"
+    }
+  },
+  "Secondary": {
+    "10": {
+      "value": "{Pink.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Pink.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Pink.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Pink.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Pink.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Pink.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Pink.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Pink.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Pink.Inverse}",
+      "type": "color"
+    }
+  },
+  "Sparkle": {
+    "10": {
+      "value": "{Green.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Green.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Green.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Green.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Green.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Green.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Green.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Green.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Green.Inverse}",
+      "type": "color"
+    }
+  }
+}
