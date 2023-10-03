@@ -44,8 +44,8 @@
       "value": "{Primary.50}",
       "type": "color"
     },
-    "Hovered": {
-      "value": "{Primary.40}",
+    "Subdued": {
+      "value": "{Primary.20}",
       "type": "color"
     },
     "Pressed": {
@@ -78,7 +78,7 @@
       "value": "{Primary.10}",
       "type": "color"
     },
-    "Subdued": {
+    "Subdued-1": {
       "value": "{Primary.20}",
       "type": "color"
     },
@@ -148,16 +148,20 @@
       "value": "{Feedbacks.Error-80}",
       "type": "color"
     },
-    "Warning": {
-      "value": "#916a00",
+    "Warning-Default": {
+      "value": "{Feedbacks.Warning-50}",
       "type": "color"
     },
-    "Success": {
-      "value": "#008060",
+    "Warning-Subdued": {
+      "value": "{Feedbacks.Warning-80}",
       "type": "color"
     },
-    "Highlight": {
-      "value": "#347c84",
+    "Success-Default": {
+      "value": "{Feedbacks.Success-50}",
+      "type": "color"
+    },
+    "Success-Subdued": {
+      "value": "{Feedbacks.Success-80}",
       "type": "color"
     }
   },
@@ -172,6 +176,10 @@
     },
     "Sparkle": {
       "value": "{Sparkle.Inverse}",
+      "type": "color"
+    },
+    "Interactive": {
+      "value": "{Neutrals.White}",
       "type": "color"
     }
   },
@@ -191,174 +199,225 @@
     "Subdued-1-Hovered": {
       "value": "{Primary.50}",
       "type": "color"
+    },
+    "Pressed": {
+      "value": "{Primary.80}",
+      "type": "color"
     }
   },
   "Icon": {
     "Default": {
-      "value": "#5c5f62",
+      "value": "{Neutrals.Grey-100}",
       "type": "color"
     },
-    "Subdued": {
-      "value": "#8c9196",
+    "Subdued-1": {
+      "value": "{Neutrals.Grey-80}",
       "type": "color"
     },
-    "Hovered": {
-      "value": "#1a1c1d",
+    "Subdued-2": {
+      "value": "{Neutrals.Grey-60}",
       "type": "color"
     },
-    "Pressed": {
-      "value": "#44474a",
+    "Error-Default": {
+      "value": "{Feedbacks.Error-50}",
       "type": "color"
     },
-    "Disabled": {
-      "value": "#babec3",
+    "Error-Subdued": {
+      "value": "{Feedbacks.Error-80}",
       "type": "color"
     },
-    "Critical": {
-      "value": "#d72c0d",
+    "Warning-Default": {
+      "value": "{Feedbacks.Warning-50}",
       "type": "color"
     },
-    "Warning": {
-      "value": "#b98900",
+    "Warning-Subdued": {
+      "value": "{Feedbacks.Warning-80}",
       "type": "color"
     },
-    "Success": {
-      "value": "#007f5f",
+    "Success-Default": {
+      "value": "{Feedbacks.Success-50}",
       "type": "color"
     },
-    "Highlight": {
-      "value": "#00a0ac",
-      "type": "color"
-    },
-    "Interactive": {
-      "value": "#2c6ecb",
+    "Success-Subdued": {
+      "value": "{Feedbacks.Success-80}",
       "type": "color"
     }
   },
   "Icon On": {
-    "Interactive": {
-      "value": "#ffffff",
+    "Feedbacks": {
+      "value": "{Neutrals.White}",
       "type": "color"
     },
     "Primary": {
-      "value": "#ffffff",
+      "value": "{Primary.Inverse}",
       "type": "color"
     },
-    "Critical": {
-      "value": "#ffffff",
+    "Secondary": {
+      "value": "{Secondary.Inverse}",
+      "type": "color"
+    },
+    "Sparkle": {
+      "value": "{Sparkle.Inverse}",
+      "type": "color"
+    }
+  },
+  "Icon Primary": {
+    "Default": {
+      "value": "{Primary.50}",
+      "type": "color"
+    },
+    "Subdued-1": {
+      "value": "{Primary.60}",
+      "type": "color"
+    },
+    "Default-Hovered": {
+      "value": "{Primary.40}",
+      "type": "color"
+    },
+    "Subdued-1-Hovered": {
+      "value": "{Primary.50}",
+      "type": "color"
+    },
+    "Pressed": {
+      "value": "{Primary.80}",
+      "type": "color"
+    }
+  },
+  "Icon Other": {
+    "Secondary Default": {
+      "value": "{Secondary.50}",
+      "type": "color"
+    },
+    "Secondary Subdued": {
+      "value": "{Secondary.60}",
+      "type": "color"
+    },
+    "Sparkle Default": {
+      "value": "{Sparkle.50}",
+      "type": "color"
+    },
+    "Sparkle Subdued": {
+      "value": "{Sparkle.60}",
       "type": "color"
     }
   },
   "Interactive": {
     "Default": {
-      "value": "#2c6ecb",
+      "value": "{Primary.50}",
       "type": "color"
     },
-    "Hovered": {
-      "value": "#1f5199",
+    "Subdued": {
+      "value": "{Primary.60}",
       "type": "color"
     },
-    "Pressed": {
-      "value": "#103262",
+    "Default-Hovered": {
+      "value": "{Primary.40}",
       "type": "color"
     },
-    "Disabled": {
-      "value": "#bdc1cc",
+    "Subdued-Hovered": {
+      "value": "{Primary.50}",
       "type": "color"
     },
-    "Critical": {
-      "value": "#d82c0d",
+    "Default-Pressed": {
+      "value": "{Primary.60}",
       "type": "color"
     },
-    "Critical Hovered": {
-      "value": "#cd290c",
+    "Subdued-Pressed": {
+      "value": "{Primary.70}",
       "type": "color"
     },
-    "Critical Disabled": {
-      "value": "#fd938d",
+    "Error": {
+      "value": "{Feedbacks.Error-50}",
       "type": "color"
     },
-    "Critical Pressed": {
-      "value": "#670f03",
+    "Error-Hovered": {
+      "value": "{Feedbacks.Error-80}",
+      "type": "color"
+    },
+    "Error-Pressed": {
+      "value": "{Neutrals.Grey-100}",
+      "type": "color"
+    },
+    "Success": {
+      "value": "{Feedbacks.Success-50}",
+      "type": "color"
+    },
+    "Success-Hovered": {
+      "value": "{Feedbacks.Success-80}",
+      "type": "color"
+    },
+    "Success-Pressed": {
+      "value": "{Neutrals.Grey-100}",
+      "type": "color"
+    },
+    "Warning": {
+      "value": "{Feedbacks.Warning-50}",
+      "type": "color"
+    },
+    "Warning-Hovered": {
+      "value": "{Feedbacks.Warning-80}",
+      "type": "color"
+    },
+    "Warning-Pressed": {
+      "value": "{Neutrals.Grey-100}",
       "type": "color"
     }
   },
   "Border": {
     "Default": {
-      "value": "#8c9196",
+      "value": "{Neutrals.Grey-60}",
       "type": "color",
       "description": "3:1 AA Contrast required"
     },
     "Subdued": {
-      "value": "#c9cccf",
-      "type": "color"
-    },
-    "Hovered": {
-      "value": "#999ea4",
-      "type": "color"
-    },
-    "Depressed": {
-      "value": "#575959",
-      "type": "color"
-    },
-    "Disabled": {
-      "value": "#d2d5d8",
+      "value": "{Neutrals.Grey-40}",
       "type": "color"
     }
   },
-  "Border Critical": {
+  "Border Error": {
     "Default": {
-      "value": "#fd5749",
-      "type": "color"
-    },
-    "Subdued": {
-      "value": "#e0b3b2",
-      "type": "color"
-    },
-    "Disabled": {
-      "value": "#ffa7a3",
+      "value": "{Feedbacks.Error-50}",
       "type": "color"
     }
   },
   "Border Warning": {
     "Default": {
-      "value": "#b98900",
-      "type": "color"
-    },
-    "Subdued": {
-      "value": "#e1b878",
+      "value": "{Feedbacks.Warning-50}",
       "type": "color"
     }
   },
   "Border Success": {
     "Default": {
-      "value": "#00a47c",
-      "type": "color"
-    },
-    "Subdued": {
-      "value": "#95c9b4",
+      "value": "{Feedbacks.Success-50}",
       "type": "color"
     }
   },
-  "Border Highlight": {
+  "Border Primary": {
     "Default": {
-      "value": "#449da7",
-      "type": "color"
+      "value": "{Primary.30}",
+      "type": "color",
+      "description": "3:1 AA Contrast required"
     },
-    "Subdued": {
-      "value": "#98c6cd",
-      "type": "color"
-    }
-  },
-  "Border Neutral": {
-    "Subdued": {
-      "value": "#babfc3",
+    "Subdued-1": {
+      "value": "{Primary.40}",
       "type": "color"
     }
   },
   "Focused": {
     "Default": {
-      "value": "#458fff",
+      "value": "{Primary.60}",
+      "type": "color"
+    },
+    "Subdued-1": {
+      "value": "{Primary.50}",
+      "type": "color"
+    },
+    "Subdued-2": {
+      "value": "{Primary.70}",
+      "type": "color"
+    },
+    "Subdued-3": {
+      "value": "{Primary.80}",
       "type": "color"
     }
   },
@@ -386,23 +445,15 @@
   },
   "Action Primary": {
     "Default": {
-      "value": "#008060",
+      "value": "{Primary.50}",
       "type": "color"
     },
     "Hovered": {
-      "value": "#006e52",
+      "value": "{Primary.30}",
       "type": "color"
     },
     "Pressed": {
-      "value": "#005e46",
-      "type": "color"
-    },
-    "Depressed": {
-      "value": "#003d2c",
-      "type": "color"
-    },
-    "Disabled": {
-      "value": "#f1f1f1",
+      "value": "{Action Primary.Default}",
       "type": "color"
     }
   },
@@ -428,115 +479,13 @@
       "type": "color"
     }
   },
-  "Decorative": {
-    "Surface": {
-      "One": {
-        "value": "#ffc96b",
-        "type": "color"
-      },
-      "Two": {
-        "value": "#ffc4b0",
-        "type": "color"
-      },
-      "Three": {
-        "value": "#92e6b5",
-        "type": "color"
-      },
-      "Four": {
-        "value": "#91e0d6",
-        "type": "color"
-      },
-      "Five": {
-        "value": "#fdc9d0",
-        "type": "color"
-      }
-    },
-    "Text": {
-      "One": {
-        "value": "#3d2800",
-        "type": "color"
-      },
-      "Two": {
-        "value": "#490b1c",
-        "type": "color"
-      },
-      "Three": {
-        "value": "#002f19",
-        "type": "color"
-      },
-      "Four": {
-        "value": "#002d2d",
-        "type": "color"
-      },
-      "Five": {
-        "value": "#4f0e1f",
-        "type": "color"
-      }
-    },
-    "Icon": {
-      "One": {
-        "value": "#7e5700",
-        "type": "color"
-      },
-      "Two": {
-        "value": "#af294e",
-        "type": "color"
-      },
-      "Three": {
-        "value": "#006d41",
-        "type": "color"
-      },
-      "Four": {
-        "value": "#006a68",
-        "type": "color"
-      },
-      "Five": {
-        "value": "#ae2b4c",
-        "type": "color"
-      }
-    }
-  },
-  "Shadow": {
-    "From dim light": {
-      "value": "#00000033",
-      "type": "color"
-    },
-    "From ambient light": {
-      "value": "#1718180d",
-      "type": "color"
-    },
-    "From direct light": {
-      "value": "#00000026",
-      "type": "color"
-    }
-  },
   "Other": {
-    "Backdrop": {
-      "value": "#00000080",
-      "type": "color"
-    },
     "Overlay": {
-      "value": "#ffffff80",
+      "value": "{Neutrals.Grey-80}",
       "type": "color"
     },
     "Divider": {
-      "value": "#e1e3e5",
-      "type": "color"
-    }
-  },
-  "BorderShadow": {
-    "BorderShadow": {
-      "value": "#aeb4b9",
-      "type": "color"
-    },
-    "Subdued": {
-      "value": "#babfc4",
-      "type": "color"
-    }
-  },
-  "Surface Attention": {
-    "Default": {
-      "value": "#ffea8a",
+      "value": "{Neutrals.Grey-40}",
       "type": "color"
     }
   }
