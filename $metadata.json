@@ -1,27 +1,5 @@
 {
   "tokenSetOrder": [
-    "Global/Jio Palette/Light",
-    "Global/Jio Palette/Dark",
-    "Global/Jio Palette/Bold (Not updated)",
-    "Global/Jio Neutrals/Light",
-    "Global/Jio Neutrals/Dark",
-    "Global/Jio Feedback/Light",
-    "Global/Jio Feedback/Dark",
-    "Global/Jio Dimensions/Values",
-    "Theme/1° + 2° + 3 °/FP Base",
-    "Theme/1° + 2° + 3 °/Store OS",
-    "Theme/1° + 2° + 3 °/WMS",
-    "Theme/1° + 2° + 3 °/TMS",
-    "Theme/1° + 2° + 3 °/FP - Proxy",
-    "Theme/1° + 2° + 3 °/Catalog Cloud",
-    "Theme/1° + 2° + 3 °/Copilot",
-    "Theme/1° + 2° + 3 °/Erase.BG",
-    "Theme/1° + 2° + 3 °/Upscale.media",
-    "Theme/1° + 2° + 3 °/Watermarkremover.io",
-    "Theme/1° + 2° + 3 °/Shrink.media",
-    "Theme/Other Colors/Neutrals",
-    "Theme/Other Colors/Feedbacks",
-    "Theme/Dimensions/Values",
-    "Semantic { II }/Theme Color (WIP)"
+    "global"
   ]
 }
